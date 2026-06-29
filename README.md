@@ -1,6 +1,7 @@
 # 📦 Gerenciador de Inventário RPG
 
 Este projeto é um sistema de gerenciamento de inventário para RPG desenvolvido em **Java** com **Swing** para a interface gráfica.
+Trabalho Desenvolvido para POO
 
 ## ✨ Funcionalidades
 
